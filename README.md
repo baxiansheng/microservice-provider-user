@@ -28,3 +28,4 @@ eureka:
   instance:
     prefer-ip-address: true
 ```
+
